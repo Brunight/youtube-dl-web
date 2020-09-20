@@ -42,6 +42,8 @@ And that's it. Simply paste an Youtube video link, set the data you want for aud
 
 When done, you'll be moved back to the homepage and there'll be a Toast with the link for the audio file.
 
+Remember, you should avoid setting the same album name for multiple files with different cover art to avoid conflicts.
+
 # 👨‍💻 Technologies
 - TypeScript;
 - Context API;
@@ -73,7 +75,7 @@ When done, you'll be moved back to the homepage and there'll be a Toast with the
 - Suggest album name and cover art by song title and artist;
 - Playlist support;
 
-- **Mix this interface and the API into a independent ElectronJS application;**
+- **Mix this interface and the API into an independent ElectronJS application;**
 
 # 📃 License
 MIT. Not recommended to use with copyrighted content. Developed by [Bruno Rodrigues](https://github.com/brunight/).
